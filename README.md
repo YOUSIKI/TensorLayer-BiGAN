@@ -1,2 +1,2 @@
 # BiGAN.TensorLayer
-TensorLayer implementations of BiGAN (Adversarial Feature Learning).
+A TensorLayer implementation of BiGAN (Adversarial Feature Learning).
