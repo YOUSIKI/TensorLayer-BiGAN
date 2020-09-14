@@ -1,4 +1,6 @@
-# BiGAN.TensorLayer
+# TensorLayer-BiGAN
+
+
 A TensorLayer implementation of [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782), which is also known as BiGAN. 
 
 ![model-structure](images/model-structure.png)
