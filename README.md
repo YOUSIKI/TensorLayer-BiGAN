@@ -39,7 +39,7 @@ conda activate bigan && pip install tensorlayer
 
 ### Evaluation
 
-First, download the pre-trained weights from [here](https://github.com/YOUSIKI/BiGAN.TensorLayer/releases).
+First, download the pre-trained weights from [here](https://github.com/YOUSIKI/TensorLayer-BiGAN/releases).
 
 Second, use the follow script to generate an images.
 
